@@ -1,0 +1,8 @@
+EXCLUDE_QUERY_DIR
+B /home/vijay/.opam/4.11.0/lib/ocaml
+B ../_build/default/bin/.interface.eobjs/byte
+B ../_build/default/src/.p4b.objs/byte
+S /home/vijay/.opam/4.11.0/lib/ocaml
+S .
+S ../src
+FLG -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs
